@@ -1,0 +1,6 @@
+{
+  "presets": ["@babel/typescript"],
+  "plugins": [
+    "./plugin/index.js"
+  ]
+}
